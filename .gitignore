@@ -1,0 +1,15 @@
+.DS_Store
+*.txt
+*.pyc
+.ipynb_checkpoints/*
+__pycache__/
+__pycache__/*
+__pycache__/H5pySimple.cpython-39.pyc
+*.pyc
+*.yml
+*.yaml
+LastSession.yml
+LastSession.yml
+LastSession.yml
+!requirements.txt
+**/.DS_Store
